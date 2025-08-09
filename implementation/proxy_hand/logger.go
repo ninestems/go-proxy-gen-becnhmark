@@ -5,7 +5,7 @@ import (
 
 	zap "go.uber.org/zap"
 
-	source "github.com/ninestems/go-proxy-gen-becnhmark/implementation"
+	source "github.com/ninestems/go-proxy-gen-benchmark/implementation"
 )
 
 // ConverterProxyLogger proxy wrapper for source.Converter.

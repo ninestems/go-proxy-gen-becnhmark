@@ -4,10 +4,10 @@ import (
 	traceprovider "go.opentelemetry.io/otel/sdk/trace"
 	"go.uber.org/zap"
 
-	"github.com/ninestems/go-proxy-gen-becnhmark/implementation"
-	"github.com/ninestems/go-proxy-gen-becnhmark/implementation/proxy"
-	proxyhand "github.com/ninestems/go-proxy-gen-becnhmark/implementation/proxy_hand"
-	"github.com/ninestems/go-proxy-gen-becnhmark/implementation/pure"
+	"github.com/ninestems/go-proxy-gen-benchmark/implementation"
+	"github.com/ninestems/go-proxy-gen-benchmark/implementation/proxy"
+	proxyhand "github.com/ninestems/go-proxy-gen-benchmark/implementation/proxy_hand"
+	"github.com/ninestems/go-proxy-gen-benchmark/implementation/pure"
 )
 
 type ConvertFabric struct {

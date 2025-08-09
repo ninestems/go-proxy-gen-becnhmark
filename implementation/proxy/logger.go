@@ -3,7 +3,7 @@
 package proxy
 
 import (
-	source "github.com/ninestems/go-proxy-gen-becnhmark/implementation"
+	source "github.com/ninestems/go-proxy-gen-benchmark/implementation"
 	zap "go.uber.org/zap"
     "encoding/json"
     "fmt"

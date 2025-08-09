@@ -3,7 +3,7 @@
 package proxy
 
 import (
-	source "github.com/ninestems/go-proxy-gen-becnhmark/implementation"
+	source "github.com/ninestems/go-proxy-gen-benchmark/implementation"
 	trace "go.opentelemetry.io/otel/trace"
 	traceprovider "go.opentelemetry.io/otel/sdk/trace"
     "fmt"

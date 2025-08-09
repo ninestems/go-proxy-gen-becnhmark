@@ -8,7 +8,7 @@ import (
 	traceprovider "go.opentelemetry.io/otel/sdk/trace"
 	trace "go.opentelemetry.io/otel/trace"
 
-	source "github.com/ninestems/go-proxy-gen-becnhmark/implementation"
+	source "github.com/ninestems/go-proxy-gen-benchmark/implementation"
 )
 
 // ConverterProxyTracer proxy wrapper for source.Converter.

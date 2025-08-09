@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/ninestems/go-proxy-gen-becnhmark/implementation/fabric"
-	"github.com/ninestems/go-proxy-gen-becnhmark/testutils"
+	"github.com/ninestems/go-proxy-gen-benchmark/implementation/fabric"
+	"github.com/ninestems/go-proxy-gen-benchmark/testutils"
 )
 
 func BenchmarkConverter_Hand(b *testing.B) {
